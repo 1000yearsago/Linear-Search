@@ -1,1 +1,3 @@
-# Linear-Search
+Лінійний пошук
+linsearch - простий ошук 
+linsearch2 - вкладені масиви
